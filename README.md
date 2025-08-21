@@ -1,6 +1,8 @@
 # Real Estate Listing Scraper
 
-Scrapes Redfin property listings from Kensington, Philadelphia and displays them in a Streamlit dashboard.
+Scrapes Redfin property listings from a given URL and displays them in a Streamlit dashboard.
+
+Demo https://www.loom.com/share/95793999527646bbaf23494a3073fc4b
 
 ## Quick Start
 
