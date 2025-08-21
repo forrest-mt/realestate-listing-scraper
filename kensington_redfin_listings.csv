@@ -1,0 +1,89 @@
+address,price,beds,baths,sqft,property_type
+"2865 Jasper St, Philadelphia, PA 19134","$184,000",3 beds,1 bath,"1,214",Single Family
+"3308 N Mascher St, Philadelphia, PA 19140","$75,000",2 beds,2 baths,"1,162",Single Family
+,,,,,
+"934 E Schiller St, Philadelphia, PA 19134","$134,999",3 beds,1 bath,"1,176",Single Family
+"650 E Wensley, Philadelphia, PA 19134","$143,000",2 beds,1 bath,756,Single Family
+"1905 E Orleans St, Philadelphia, PA 19134","$139,900",3 beds,1 bath,"1,064",Single Family
+"667 E Thayer St, Philadelphia, PA 19134","$70,000",2 beds,1 bath,784,Single Family
+"703 E Allegheny Ave, Philadelphia, PA 19134","$79,900",3 beds,1 bath,"1,156",Single Family
+"2536-2538 Emerald St, Philadelphia, PA 19125","$375,000",4 beds,2 baths,"1,721",Single Family
+"1834 E Albert St, Philadelphia, PA 19125","$270,000",2 beds,1 bath,"1,200",Single Family
+"2080 E Cumberland St, Philadelphia, PA 19125","$399,900",3 beds,2 baths,"2,175",Single Family
+"732 E Willard St, Philadelphia, PA 19134","$115,000",3 beds,1 bath,"1,110",Single Family
+"2814 Jasper St, Philadelphia, PA 19134","$124,900",3 beds,1 bath,"1,212",Single Family
+"2107 E Susquehanna Ave, Philadelphia, PA 19125","$400,000",2 beds,2 baths,"2,383",Single Family
+"2036 E Boston St, Philadelphia, PA 19125","$274,900",2 beds,1 bath,966,Single Family
+"638 E Cornwall St, Philadelphia, PA 19134","$164,900",3 beds,1 bath,"1,080",Single Family
+"2536 N Lee St, Philadelphia, PA 19125","$239,900",3 beds,2 baths,"1,360",Single Family
+,,,,,
+"2548 Kern St, Philadelphia, PA 19125","$339,900",2 beds,1.5 baths,"1,018",Single Family
+"2103 E Susquehanna Ave, Philadelphia, PA 19125","$590,000",3 beds,2 baths,"2,127",Single Family
+"2765 Helen St, Philadelphia, PA 19134","$74,900",2 beds,1 bath,774,Single Family
+"3424 Jasper St, Philadelphia, PA 19134","$75,000",3 beds,1.5 baths,"1,080",Single Family
+"127 E Cumberland St, Philadelphia, PA 19125","$440,000",4 beds,2 baths,"2,270",Single Family
+"123 E Cumberland St, Philadelphia, PA 19125","$425,000",4 beds,2 baths,"2,040",Single Family
+"838 E Madison St, Philadelphia, PA 19134","$114,900",3 beds,1 bath,"1,198",Single Family
+"1832 E Lippincott St, Philadelphia, PA 19134","$90,000",3 beds,1 bath,756,Single Family
+"1866 E Cornwall St, Philadelphia, PA 19134","$119,000",2 beds,2 baths,910,Single Family
+,,,,,
+"2103 E York St, Philadelphia, PA 19125","$275,000",5 beds,1.5 baths,"1,666",Single Family
+"2003 E Madison St, Philadelphia, PA 19134","$89,000",3 beds,1 bath,"1,188",Single Family
+"1833 E Hazzard St, Philadelphia, PA 19125","$239,000",3 beds,1.5 baths,"1,297",Single Family
+"1847 E Cornwall St, Philadelphia, PA 19134","$125,000",3 beds,1 bath,"1,330",Single Family
+"3358 Jasper St, Philadelphia, PA 19134","$120,000",4 beds,2 baths,"1,425",Single Family
+"665 E Wensley St, Philadelphia, PA 19134","$90,000",3 beds,3 baths,784,Single Family
+"1802 E Huntingdon St, Philadelphia, PA 19125","$675,000",6 beds,4 baths,"2,658",Accommodation
+"2563 Emerald St, Philadelphia, PA 19125","$395,000",3 beds,3 baths,"1,600",Single Family
+"1855 E Wishart St, Philadelphia, PA 19134","$59,900",3 beds,1 bath,980,Single Family
+"3509 Pennhurst St, Philadelphia, PA 19134","$120,000",2 beds,1 bath,840,Single Family
+"1941 E Oakdale St, Philadelphia, PA 19125","$289,000",2 beds,1.5 baths,864,Single Family
+"182 E Huntingdon St, Philadelphia, PA 19125","$700,000",6 beds,6 baths,"2,397",Accommodation
+"1932 E Lippincott St, Philadelphia, PA 19134","$130,000",3 beds,2 baths,"1,300",Single Family
+"1934 E Lippincott St, Philadelphia, PA 19134","$130,000",3 beds,2 baths,"1,246",Single Family
+"1841 E Clementine St, Philadelphia, PA 19134","$125,000",3 beds,2 baths,"1,040",Single Family
+"3341-43 D St, Philadelphia, PA 19134","$330,000",3 beds,1 bath,"3,779",Single Family
+"2630 Jasper St, Philadelphia, PA 19125","$275,000",2 beds,1 bath,819,Single Family
+"940 E Schiller St, Philadelphia, PA 19134","$109,000",3 beds,1 bath,"1,176",Single Family
+,,,,,
+"2013 E Firth St, Philadelphia, PA 19125","$549,900",4 beds,3 baths,"2,200",Single Family
+"2028 E Ontario St, Philadelphia, PA 19134","$160,000",3 beds,1 bath,"1,636",Single Family
+"3134 D St, Philadelphia, PA 19134","$159,900",3 beds,1.5 baths,950,Single Family
+"926 E Tioga St, Philadelphia, PA 19134","$184,999",4 beds,3 baths,"1,260",Single Family
+"2135 E Susquehanna Ave, Philadelphia, PA 19125","$4,500,000",0 beds,— baths,"15,750",Accommodation
+"1844 E Clementine St, Philadelphia, PA 19134","$159,900",3 beds,1.5 baths,"1,076",Single Family
+"837 E Willard St, Philadelphia, PA 19134","$82,500",3 beds,1 bath,"1,140",Single Family
+"2873 N Lee St, Philadelphia, PA 19134","$114,900",2 beds,— baths,968,Accommodation
+"634 E Allegheny Ave, Philadelphia, PA 19134","$130,000",2 beds,— baths,"1,391",Accommodation
+"2427 Coral St, Philadelphia, PA 19125","$699,000",4 beds,3 baths,"2,357",Single Family
+"3254 Joyce St, Philadelphia, PA 19134","$174,900",3 beds,1 bath,986,Single Family
+"1854 E Clementine St, Philadelphia, PA 19134","$74,500",3 beds,1 bath,"1,076",Single Family
+"2647 Jasper St, Philadelphia, PA 19125","$749,000",7 beds,5 baths,"3,950",Accommodation
+"2832 B St, Philadelphia, PA 19134","$114,999",3 beds,1.5 baths,900,Single Family
+,,,,,
+"2512 Frankford Ave Unit 1A, Philadelphia, PA 19125","$229,900",2 beds,2 baths,"1,128",Single Family
+"2002 Hart Ln, Philadelphia, PA 19134","$99,000",2 beds,2 baths,"1,060",Single Family
+"3433 E St, Philadelphia, PA 19134","$140,000",3 beds,1 bath,980,Single Family
+"3131 Weymouth St, Philadelphia, PA 19134","$62,500",3 beds,1 bath,"1,120",Single Family
+"3224 Hartville St, Philadelphia, PA 19134","$48,000",2 beds,1 bath,720,Single Family
+"2208 Amber St, Philadelphia, PA 19125","$499,000",3 beds,2.5 baths,"1,548",Single Family
+"2025 E Sterner St, Philadelphia, PA 19134","$140,000",3 beds,1 bath,896,Single Family
+"3032 N Swanson St, Philadelphia, PA 19134","$88,750",3 beds,1 bath,980,Single Family
+"3308 N Lee St, Philadelphia, PA 19134","$160,000",3 beds,1 bath,"1,064",Single Family
+,,,,,
+"2525 N Lee St, Philadelphia, PA 19125","$149,500",2 beds,1 bath,828,Single Family
+"3420 D St, Philadelphia, PA 19134","$100,000",2 beds,1 bath,980,Single Family
+"2440 Jasper St, Philadelphia, PA 19125","$245,000",3 beds,1 bath,"1,053",Single Family
+"1915 E Birch St, Philadelphia, PA 19134","$168,900",3 beds,1 bath,956,Single Family
+"3302 N Palethorp St, Philadelphia, PA 19140","$175,000",3 beds,1.5 baths,"1,160",Single Family
+"3566 Ruth St, Philadelphia, PA 19134","$494,900",1 bed,1.5 baths,"1,590",Single Family
+"3564 Ruth St, Philadelphia, PA 19134","$494,900",1 bed,1 bath,"1,380",Single Family
+"435 E Elkhart St, Philadelphia, PA 19134","$30,000",3 beds,1 bath,780,Single Family
+"2571 Coral St, Philadelphia, PA 19125","$429,900",4 beds,2.5 baths,"1,426",Single Family
+"2014 Blair St, Philadelphia, PA 19125","$739,900",3 beds,3 baths,"2,400",Single Family
+"2642 Coral St, Philadelphia, PA 19125","$229,900",2 beds,1 bath,"1,213",Single Family
+"2018-20 E Stella St, Philadelphia, PA 19134","$369,000",6 beds,— baths,"3,406",Accommodation
+"1818 E Hazzard St, Philadelphia, PA 19125","$267,900",2 beds,1.5 baths,927,Single Family
+"205 W Wishart St, Philadelphia, PA 19133","$170,000",3 beds,1.5 baths,"1,092",Single Family
+"1910 E Atlantic St, Philadelphia, PA 19134","$205,000",3 beds,1.5 baths,"1,384",Single Family
+"2935 Ruth St, Philadelphia, PA 19134","$95,000",3 beds,2 baths,"1,456",Single Family
